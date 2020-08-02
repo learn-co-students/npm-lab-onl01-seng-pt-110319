@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "Creative colorful clock changes color by the second.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alouiscious/npm-lab-onl01-seng-pt-110319.git"
+  },
+  "author": "alouiscious media",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alouiscious/npm-lab-onl01-seng-pt-110319/issues"
+  },
+  "homepage": "https://github.com/alouiscious/npm-lab-onl01-seng-pt-110319#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
